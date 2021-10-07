@@ -54,11 +54,11 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: technologies
+  - cat: tech
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: library
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: news
+    desc: "Just some placeholder posts."
 
 # Social icons and sharing options
 #
