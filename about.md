@@ -9,7 +9,7 @@ main_nav: true
 
 보이스 솔루션은 휴대폰, 핸즈프리 킷, 스피커폰에 최적화 되어있습니다. ARM 계열 프로세서를 사용하는 환경이면 이식과 적용이 간편하도록 디자인되어 있으며 x86/x64 계열 CPU도 지원합니다. 소프트웨어 DSP 코드 뿐만 아니라 ASIC 칩 모듈로 구현 가능합니다. 또한 별도로 시스템의 오디오 구조 변경 없이 쉽게 적용 가능합니다. 아쿠오랩과 공동개발 하였으며 모바일적용은 더바인코퍼레이션이 전담하고 있습니다.
 
-(http://thevinecorp.com/img/akouolab/akouolab.png)
+![solution img](http://thevinecorp.com/img/akouolab/akouolab.png)
 
 * Voice Clarity - 통화 중 주변 환경에 따라 자동으로 볼륨과 명료도 향상
 * Senior Mode - 시니어를 위한 명료도 향상
