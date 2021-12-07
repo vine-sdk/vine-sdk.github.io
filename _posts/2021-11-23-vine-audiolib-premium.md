@@ -14,12 +14,12 @@ audiolib Standard 버전의 AGC (Automaic Gain Control)기능 외 송/수신에 
 유상버전에는 다음 기능들을 추가로제공 예정입니다.
 
 ### 추가 제공기능
-ANR (Adaptive Noise Reduction)
-Howling Detection
-Speaker DRC (Rx)
-Ear-shock Protection (Rx)
-Notch Filter (Rx)
-(T.B.D.)
+- ANR (Adaptive Noise Reduction)
+- Howling Detection
+- Speaker DRC (Rx)
+- Ear-shock Protection (Rx)
+- Notch Filter (Rx)
+- (T.B.D.)
 
 
 프리미엄 에디션 라이선스 구매문의: support@thevinecorp.com
